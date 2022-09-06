@@ -1,6 +1,7 @@
 @extends('layouts.main')
 @section('content')
 <section class="content">
+    <!-- Не удалять блок -->
     <div class="content__head">
         <div class="container">
             <div class="row">
@@ -12,6 +13,7 @@
             </div>
         </div>
     </div>
+    <!-- Не удалять блок -->
 
     <div class="container">
         <!-- content tabs -->
