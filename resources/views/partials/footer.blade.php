@@ -2,8 +2,8 @@
 <footer class="footer">
 	<div class="container">
 		<div class="row">
-				<!-- footer list -->
-				<div class="col">
+			<!-- footer list -->
+			<div class="col">
 				<h6 class="footer__title">Карта сайта</h6>
 				<ul class="footer__list">
 					<li><a href="#">Главная</a></li>
@@ -12,7 +12,7 @@
 				</ul>
 			</div>
 			<!-- end footer list -->
-			
+
 			<!-- footer list -->
 			<div class="col">
 				<h6 class="footer__title">Мои проекты</h6>
@@ -42,7 +42,6 @@
 			<!-- <div class="col-12">
 				<div class="footer__copyright">
 					<small><a target="_blank" href="https://www.templateshub.net">Templates Hub</a></small>
-
 					<ul>
 						<li><a href="#">Terms of Use</a></li>
 						<li><a href="#">Privacy Policy</a></li>

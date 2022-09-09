@@ -32,7 +32,6 @@
                             </li>
                         </ul>
                         <!-- end header nav -->
-
                         <!-- header auth -->
                         <div class="header__auth">
                             <button class="header__search-btn" type="button">
@@ -45,7 +44,6 @@
                             </a>
                         </div>
                         <!-- end header auth -->
-
                         <!-- header menu btn -->
                         <button class="header__btn" type="button">
                             <span></span>
@@ -58,7 +56,6 @@
             </div>
         </div>
     </div>
-
     <!-- header search -->
     <form action="#" class="header__search">
         <div class="container">
