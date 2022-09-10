@@ -8,18 +8,14 @@
                     <!-- authorization form -->
                     <form action="#" class="sign__form">
                         <a href="{{ url('/') }}" class="sign__logo">
-                        
                             <img src="/img/cinemaLogo.png" alt="">
                         </a>
-
                         <div class="sign__group">
                             <input type="text" class="sign__input" placeholder="Email">
                         </div>
-
                         <div class="sign__group">
                             <input type="password" class="sign__input" placeholder="Пароль">
                         </div>
-
                         <div class="sign__group sign__group--checkbox">
                             <input id="remember" name="remember" type="checkbox" checked="checked">
                             <label for="remember">Запомнить меня</label>
