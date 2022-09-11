@@ -20,7 +20,6 @@
     <script src="{{ mix('js/all.js') }}" defer></script>
 
     <title>Авторизация</title>
-
 </head>
 
 <body class="body">
