@@ -1,7 +1,8 @@
 const mix = require("laravel-mix");
 
 /**
- * Я использовал самый простой вариант компиляции ассетов
+ * Я использовал самый простой вариант компиляции ассетов.
+ * Все стили компилируются в один файл all.css
  */
 
 mix.styles(
@@ -20,6 +21,9 @@ mix.styles(
     "public/css/all.css"
 );
 
+/**
+ * Весь JacaScript компилируется в один файл all.js
+ */
 mix.babel(
     [
         "public/js/jquery-3.3.1.min.js",
