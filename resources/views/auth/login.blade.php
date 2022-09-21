@@ -25,7 +25,7 @@
 
                         <span class="sign__text">Нет аккаунта? <a href="{{ url('/register') }}">Зарегистрироваться!</a></span>
 
-                        <span class="sign__text"><a href="#">Забыли пароль?</a></span>
+                        <span class="sign__text"><a href="{{ url('/forgot') }}">Забыли пароль?</a></span>
                     </form>
                     <!-- end authorization form -->
                 </div>

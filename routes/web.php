@@ -28,3 +28,7 @@ Route::get('/help', function () {
 Route::get('/register', function () {
     return view('auth.register');
 });
+
+Route::get('/forgot', function () {
+    return view('auth.forgot');
+});
