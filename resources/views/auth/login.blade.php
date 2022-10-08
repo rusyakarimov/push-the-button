@@ -23,7 +23,7 @@
 
                         <button class="sign__btn" type="button">Войти</button>
 
-                        <span class="sign__text">Нет аккаунта? <a href="{{ url('/register') }}">Зарегистрироваться!</a></span>
+                        <span class="sign__text">Не зарегистрированы? <a href="{{ url('/register') }}">Зарегистрироваться!</a></span>
 
                         <span class="sign__text"><a href="{{ url('/forgot') }}">Забыли пароль?</a></span>
                     </form>
