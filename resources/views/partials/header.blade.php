@@ -23,7 +23,7 @@
                                 <ul class="dropdown-menu header__dropdown-menu" aria-labelledby="dropdownMenuCatalog">
                                     <li><a href="catalog1.html">Фильмы</a></li>
                                     <li><a href="catalog2.html">Сериалы</a></li>
-                                    <li><a href="details1.html">Мультфильмы</a></li>
+                                    <li><a href="details1.html">Мультики</a></li>
                                 </ul>
                             </li>
                             <!-- end dropdown -->
