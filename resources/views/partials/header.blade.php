@@ -64,7 +64,7 @@
                     <div class="header__search-content">
                         <input type="text" placeholder="Найти что-то по душе...">
 
-                        <button type="button">Найти</button>
+                        <button type="button">Поиск</button>
                     </div>
                 </div>
             </div>
