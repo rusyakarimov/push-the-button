@@ -37,7 +37,6 @@
                             <button class="header__search-btn" type="button">
                                 <i class="icon ion-ios-search"></i>
                             </button>
-
                             <a href="{{ url('/login') }}" class="header__sign-in">
                                 <i class="icon ion-ios-log-in"></i>
                                 <span>Войти</span>

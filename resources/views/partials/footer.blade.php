@@ -37,7 +37,6 @@
 				</ul>
 			</div>
 			<!-- end footer list -->
-
 			<!-- footer copyright -->
 			<!-- <div class="col-12">
 				<div class="footer__copyright">
@@ -52,4 +51,3 @@
 		</div>
 	</div>
 </footer>
-<!-- end footer -->
